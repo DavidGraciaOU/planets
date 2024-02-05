@@ -1,3 +1,4 @@
 # NAME description of the code I am writing
 
-print("Hello World!")
+# Read in data
+read_csv('mars_elements.csv')
